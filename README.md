@@ -29,10 +29,10 @@ Every individual (represented by the record aptly named "Individual") represents
   
 ## individual.clj
   
-  Functions
-    - spawn-individual - Three variants:
-      - One spawns a random individual for a given city map.
-      - Second spawns a specific individual given a decimal representation.
-      - Third spawns a hollow individual.
+Functions
+  - spawn-individual - Three variants:
+    - One spawns a random individual for a given city map.
+    - Second spawns a specific individual given a decimal representation.
+    - Third spawns a hollow individual.
       
-    - 
+  - 
