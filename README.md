@@ -43,6 +43,8 @@ One possible way of running it is:
 
 After a bit, you should get a list of most potent individuals.
 
+#Namespaces
+
 ## ai-genalg.clj
 
 Execution starts with the function "genetic-algorithm". It calls "init-population" once, and then calls "crossover-step", "mutate-step" and "kill-excess" every turn until it runs out of iterations.
